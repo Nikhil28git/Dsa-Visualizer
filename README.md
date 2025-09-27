@@ -1,28 +1,34 @@
-# DSA Visualizer
+# DSA Visualizer 📊
 
-A modern, interactive web application for learning Data Structures and Algorithms through visualizations. Built with React, TypeScript, and Bootstrap 5.3.
+**DSA Visualizer** is an interactive web application designed to make learning **Data Structures and Algorithms (DSA)** engaging and intuitive. With step-by-step visualizations, users can understand complex concepts effortlessly. Built with **React**, **TypeScript**, and **Bootstrap 5.3**, it’s modern, responsive, and beginner-friendly.
 
-## 🚀 Features
+---
 
-- **Interactive Visualizations**: Step-by-step animations for algorithms and data structures
-- **Dark/Light Theme**: Toggle between themes with persistent preferences
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- **Comprehensive Coverage**: From basic arrays to advanced graph algorithms
-- **Educational Focus**: Designed specifically for learning and understanding DSA concepts
-- **Modern Routing**: Clean URL structure with React Router
+## 🚀 Key Features
+
+- **Interactive Visualizations** – Watch algorithms and data structures in action with animations.  
+- **Dark/Light Theme** – Switch between themes, with preferences saved across sessions.  
+- **Responsive Design** – Works seamlessly on desktops, tablets, and mobile devices.  
+- **Comprehensive Coverage** – From basic arrays to advanced graph algorithms.  
+- **Educational Focus** – Designed for learning and mastering DSA concepts.  
+- **Modern Routing** – Clean and intuitive URLs using React Router.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 19.1.0 with TypeScript
-- **Routing**: React Router DOM
-- **Styling**: Bootstrap 5.3.7 with custom CSS
-- **Icons**: Bootstrap Icons
-- **Build Tool**: Vite
-- **Package Manager**: npm
+- **Frontend:** React 19.1.0 with TypeScript  
+- **Routing:** React Router DOM  
+- **Styling:** Bootstrap 5.3.7 with custom CSS  
+- **Icons:** Bootstrap Icons  
+- **Build Tool:** Vite  
+- **Package Manager:** npm  
 
-## 📦 Installation
+---
 
-1. Clone the repository:
+## 📦 Getting Started
+
+1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/dsa-visualizer.git
 cd dsa-visualizer
@@ -66,20 +72,20 @@ dsa-visualizer/
 
 ### Data Structures
 - ✅ **Arrays** - Basic array operations and properties
-- 🔄 **Linked Lists** - Coming soon
-- 🔄 **Stacks** - Coming soon
-- 🔄 **Queues** - Coming soon
+- ✅ **Linked Lists** - Available, including Singly Linked List
+- ✅ **Stacks** - Implemented with push and pop operations
+- ✅ **Queues** - Implemented with enqueue and dequeue operations.
 - 🔄 **Trees** - Coming soon
 - 🔄 **Graphs** - Coming soon
 
 ### Algorithms
 - ✅ **Linear Search** - Sequential search algorithm
-- 🔄 **Binary Search** - Coming soon
-- 🔄 **Bubble Sort** - Coming soon
-- 🔄 **Merge Sort** - Coming soon
-- 🔄 **Quick Sort** - Coming soon
-- 🔄 **DFS** - Coming soon
-- 🔄 **BFS** - Coming soon
+- ✅ **Binary Search** - Implemented with interactive features
+- ✅ **Bubble Sort** - Implemented with visual steps.
+- ✅ **Merge Sort** - Implemented with visual steps.
+- ✅ **Quick Sort** - Implemented with visual steps.
+- ✅ **DFS** - Implemented with visual steps.
+- ✅ **BFS** - Implemented with visual steps.
 
 ## 🧭 Navigation Structure
 

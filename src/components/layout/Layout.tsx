@@ -22,7 +22,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </main>
 
       {/* Footer */}
-      <footer className="bg-dark text-white text-center py-3 mt-auto">
+      {/* <footer className="bg-dark text-white text-center py-3 mt-auto">
         <div className="container">
           <p className="mb-0">
             Made with ❤️ by{' '}
@@ -38,7 +38,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </p>
         </div>
       </footer>
-    </div>
+    </div> */}
   );
 };
 

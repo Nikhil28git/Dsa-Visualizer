@@ -60,22 +60,12 @@ const Navbar: React.FC<NavbarProps> = ({ onSidebarToggle }) => {
         <div className="d-flex align-items-center">
           {/* Theme Toggle Button */}
           <button
-            className="btn btn-outline-light btn-sm me-2"
+            className="btn btn-outline-light btn-sm"
             onClick={toggleTheme}
             aria-label={`Switch to ${isDarkMode ? 'light' : 'dark'} mode`}
             title={`Switch to ${isDarkMode ? 'light' : 'dark'} mode`}>
             <i className={`bi ${isDarkMode ? 'bi-sun' : 'bi-moon'}`}></i>
           </button>
-
-          {/* GitHub Link */}
-          <a
-            href="https://github.com/d02ev"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn btn-outline-light btn-sm"
-            title="View on GitHub">
-            <i className="bi bi-github"></i>
-          </a>
         </div>
       </div>
     </nav>
